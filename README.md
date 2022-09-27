@@ -11,4 +11,4 @@
 
 <b>Pandas:</b> Geração de DataFrame e posteriormente convertendo em arquivo Excel. XLSX.
 
-<b>Win32Print e Win32Api:</b> Utilizada para finalizando a geração do arquivo fazer e impressão do arquivo na impressora.
+<b>Win32Print e Win32Api:</b> Utilizada para que, finalizado a geração do arquivo, faça a impressão do arquivo fisicamente em A4.
