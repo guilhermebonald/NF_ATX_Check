@@ -1,4 +1,4 @@
-<b>Script de automação de processo para verificação de notas lançadas no software ATX Frota.</b>
+<b>Script de verificação das notas fiscais lançadas no software ATX Frota.</b>
 
 - Esse Script foi criado, devido ao esforço diario, para verificar notas fiscais lançadas no sistema fiscal ATX Frota.
 - Foi usado as seguintes bibliotecas para esse mini projeto: 
