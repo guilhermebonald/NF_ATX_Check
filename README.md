@@ -1,6 +1,6 @@
 <b>Script de verificação das notas fiscais lançadas no software ATX Frota.</b>
 
-- Esse Script foi criado, devido ao esforço diario, para verificar notas fiscais lançadas no sistema fiscal ATX Frota.
+- Esse Script foi criado, devido ao trabalho repetitivo e diario, para verificar notas fiscais lançadas no sistema fiscal ATX Frota.
 - Foi usado as seguintes bibliotecas para esse mini projeto: 
 
 <b>OpenPyXl:</b> Usado para coletar e inserir em uma lista uma série de números de notas fiscais.
